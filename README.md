@@ -28,6 +28,9 @@ This project focuses on image classification using a Convolutional Neural Networ
 ## Dataset
 The project uses image datasets provided by the California Institute of Technology (Caltech). [Caltech Vision Datasetes]: https://www.vision.caltech.edu/datasets/ .
 
+## Results
+![Confusion Matrix](Confusion_Matrix.png)
+
 ## Applications
 This project can be applied in:
 - Computer vision
