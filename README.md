@@ -20,16 +20,16 @@ This project focuses on image classification using a Convolutional Neural Networ
 - Opencv
 
 ## Files
-- 'cnn.ipynb' -> Main CNN implementation
-- 'Confusion_Matrix.png' -> Model evaluation results
-- 'splitdataset.txt' ->Dataset spli information
-- 'show_annotation.py' -> Annotation visualization utility
+- `notebooks/cnn.ipynb` -> Main CNN implementation
+- `results/Confusion_Matrix.png` -> Model evaluation results
+- `splitdataset.txt` ->Dataset split information
+- `scripts/show_annotation.py` -> Annotation visualization utility
 
 ## Dataset
-The project uses image datasets provided by the California Institute of Technology (Caltech). [Caltech Vision Datasetes]: https://www.vision.caltech.edu/datasets/ .
+The project uses image datasets provided by the California Institute of Technology (Caltech). [Caltech Vision Datasetes](https://www.vision.caltech.edu/datasets/).
 
 ## Results
-![Confusion Matrix](Confusion_Matrix.png)
+![Confusion Matrix](results/Confusion_Matrix.png)
 
 ## Applications
 This project can be applied in:
